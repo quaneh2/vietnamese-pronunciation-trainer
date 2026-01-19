@@ -1,6 +1,6 @@
 """Vietnamese Pronunciation Trainer - Flask Backend API."""
 
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, send_from_directory
 from flask_cors import CORS
 import json
 import logging
@@ -118,6 +118,23 @@ def check_pronunciation():
             'error': str(e),
             'message': 'An error occurred processing your request'
         }), 500
+
+
+# Serve frontend static files
+@app.route('/')
+def serve_index():
+    """Serve the frontend index.html."""
+    return send_from_directory('../frontend', 'index.html')
+
+
+@app.route('/<path:path>')
+def serve_static(path):
+    """Serve frontend static files (CSS, JS, etc.)."""
+    try:
+        return send_from_directory('../frontend', path)
+    except:
+        # If file not found, return index.html for client-side routing
+        return send_from_directory('../frontend', 'index.html')
 
 
 @app.errorhandler(404)
