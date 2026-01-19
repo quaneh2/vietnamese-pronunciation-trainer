@@ -1,0 +1,33 @@
+{
+  "letters": [
+    {"letter": "a", "order": 1},
+    {"letter": "ă", "order": 2},
+    {"letter": "â", "order": 3},
+    {"letter": "b", "order": 4},
+    {"letter": "c", "order": 5},
+    {"letter": "d", "order": 6},
+    {"letter": "đ", "order": 7},
+    {"letter": "e", "order": 8},
+    {"letter": "ê", "order": 9},
+    {"letter": "g", "order": 10},
+    {"letter": "h", "order": 11},
+    {"letter": "i", "order": 12},
+    {"letter": "k", "order": 13},
+    {"letter": "l", "order": 14},
+    {"letter": "m", "order": 15},
+    {"letter": "n", "order": 16},
+    {"letter": "o", "order": 17},
+    {"letter": "ô", "order": 18},
+    {"letter": "ơ", "order": 19},
+    {"letter": "p", "order": 20},
+    {"letter": "q", "order": 21},
+    {"letter": "r", "order": 22},
+    {"letter": "s", "order": 23},
+    {"letter": "t", "order": 24},
+    {"letter": "u", "order": 25},
+    {"letter": "ư", "order": 26},
+    {"letter": "v", "order": 27},
+    {"letter": "x", "order": 28},
+    {"letter": "y", "order": 29}
+  ]
+}

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vietnamese Pronunciation Trainer</title>
+    <meta name="description" content="Learn Vietnamese word pronunciation through interactive voice recognition">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>Vietnamese Pronunciation Trainer</h1>
+            <p class="subtitle">Master Vietnamese words with voice recognition</p>
+            <p class="subtitle vietnamese-subtitle">Học từ tiếng Việt với nhận dạng giọng nói</p>
+        </header>
+
+        <main class="main-content">
+            <!-- Progress Indicator -->
+            <div class="progress-section">
+                <p class="progress-text" id="progress-text">Word 1 of 91</p>
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progress-fill"></div>
+                </div>
+            </div>
+
+            <!-- Word Display -->
+            <div class="word-display">
+                <div class="word-card">
+                    <span class="current-word" id="current-word">ba</span>
+                    <p class="word-translation" id="word-translation">three / father</p>
+                </div>
+            </div>
+
+            <!-- Control Panel -->
+            <div class="controls">
+                <button class="button-primary" id="record-button" aria-label="Record pronunciation">
+                    Record
+                </button>
+            </div>
+
+            <!-- Recording Progress -->
+            <div class="recording-progress" id="recording-progress" style="display: none;">
+                <div class="recording-header">
+                    <p class="recording-text">Recording...</p>
+                    <button class="button-secondary" id="stop-button" aria-label="Stop recording">
+                        Stop
+                    </button>
+                </div>
+                <div class="recording-bar">
+                    <div class="recording-fill" id="recording-fill"></div>
+                </div>
+            </div>
+
+            <!-- Audio Review Panel -->
+            <div class="audio-review" id="audio-review" style="display: none;">
+                <div class="audio-player">
+                    <p class="review-text">Review your recording:</p>
+                    <audio id="audio-playback" controls></audio>
+                    <div class="review-controls">
+                        <button class="button-primary" id="submit-button">Submit</button>
+                        <button class="button-secondary" id="rerecord-button">Record Again</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Next Button -->
+            <div class="next-button-container" id="next-button-container" style="display: none;">
+                <button class="button-secondary" id="next-button" aria-label="Go to next word">
+                    Next Word
+                </button>
+            </div>
+
+            <!-- Feedback Area -->
+            <div class="feedback-area" id="feedback-area" role="alert" aria-live="polite">
+                <!-- Feedback messages will appear here -->
+            </div>
+
+            <!-- Completion Section -->
+            <div class="completion-section" id="completion-section" style="display: none;">
+                <h2>Congratulations!</h2>
+                <p>You've completed all Vietnamese words.</p>
+                <button class="button-primary" id="restart-button">Start Over</button>
+            </div>
+        </main>
+
+        <footer class="footer">
+            <p>Practice daily for best results</p>
+        </footer>
+    </div>
+
+    <!-- Loading Overlay -->
+    <div class="loading-overlay" id="loading-overlay" style="display: none;">
+        <div class="spinner"></div>
+        <p>Checking pronunciation...</p>
+    </div>
+
+    <script src="js/audioRecorder.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
