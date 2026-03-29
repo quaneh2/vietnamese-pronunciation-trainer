@@ -1,0 +1,907 @@
+{
+  "words": [
+    {
+      "word": "tôi",
+      "translation": "I / me",
+      "word_type": "pronoun",
+      "examples": [
+        {"vietnamese": "Tôi là sinh viên.", "english": "I am a student."},
+        {"vietnamese": "Bạn có thể giúp tôi không?", "english": "Can you help me?"}
+      ]
+    },
+    {
+      "word": "bạn",
+      "translation": "you (to a peer)",
+      "word_type": "pronoun",
+      "examples": [
+        {"vietnamese": "Bạn có khỏe không?", "english": "Are you well?"},
+        {"vietnamese": "Bạn đến từ đâu?", "english": "Where are you from?"}
+      ]
+    },
+    {
+      "word": "anh",
+      "translation": "you (to an older male) / older brother",
+      "word_type": "pronoun",
+      "examples": [
+        {"vietnamese": "Anh tên là gì?", "english": "What is your name?"},
+        {"vietnamese": "Anh đang làm gì?", "english": "What are you doing?"}
+      ]
+    },
+    {
+      "word": "chị",
+      "translation": "you (to an older female) / older sister",
+      "word_type": "pronoun",
+      "examples": [
+        {"vietnamese": "Chị ơi, cho tôi hỏi.", "english": "Excuse me (miss), may I ask something?"},
+        {"vietnamese": "Chị đang ở đâu?", "english": "Where are you?"}
+      ]
+    },
+    {
+      "word": "em",
+      "translation": "I (when speaking to an elder) / younger sibling",
+      "word_type": "pronoun",
+      "examples": [
+        {"vietnamese": "Em muốn học tiếng Việt.", "english": "I want to learn Vietnamese."},
+        {"vietnamese": "Em không hiểu.", "english": "I don't understand."}
+      ]
+    },
+    {
+      "word": "nó",
+      "translation": "it / he / she (3rd person informal)",
+      "word_type": "pronoun",
+      "examples": [
+        {"vietnamese": "Nó ở đâu?", "english": "Where is it?"},
+        {"vietnamese": "Nó rất thông minh.", "english": "It / He / She is very smart."}
+      ]
+    },
+    {
+      "word": "họ",
+      "translation": "they / them",
+      "word_type": "pronoun",
+      "examples": [
+        {"vietnamese": "Họ đang ăn cơm.", "english": "They are eating rice."},
+        {"vietnamese": "Tôi không biết họ.", "english": "I don't know them."}
+      ]
+    },
+    {
+      "word": "một",
+      "translation": "one",
+      "word_type": "number",
+      "examples": [
+        {"vietnamese": "Tôi có một quyển sách.", "english": "I have one book."},
+        {"vietnamese": "Cho tôi một cái.", "english": "Give me one."}
+      ]
+    },
+    {
+      "word": "hai",
+      "translation": "two",
+      "word_type": "number",
+      "examples": [
+        {"vietnamese": "Tôi có hai anh trai.", "english": "I have two older brothers."},
+        {"vietnamese": "Hai người bạn đến thăm tôi.", "english": "Two friends came to visit me."}
+      ]
+    },
+    {
+      "word": "ba",
+      "translation": "three",
+      "word_type": "number",
+      "examples": [
+        {"vietnamese": "Có ba người ở đây.", "english": "There are three people here."},
+        {"vietnamese": "Tôi học tiếng Việt được ba tháng.", "english": "I have been learning Vietnamese for three months."}
+      ]
+    },
+    {
+      "word": "bốn",
+      "translation": "four",
+      "word_type": "number",
+      "examples": [
+        {"vietnamese": "Nhà có bốn phòng.", "english": "The house has four rooms."},
+        {"vietnamese": "Cô ấy có bốn người bạn.", "english": "She has four friends."}
+      ]
+    },
+    {
+      "word": "năm",
+      "translation": "five",
+      "word_type": "number",
+      "examples": [
+        {"vietnamese": "Tôi học tiếng Việt được năm tháng.", "english": "I have been learning Vietnamese for five months."},
+        {"vietnamese": "Năm người bạn đến thăm tôi.", "english": "Five friends came to visit me."}
+      ]
+    },
+    {
+      "word": "sáu",
+      "translation": "six",
+      "word_type": "number",
+      "examples": [
+        {"vietnamese": "Tôi thức dậy lúc sáu giờ.", "english": "I wake up at six o'clock."},
+        {"vietnamese": "Có sáu học sinh trong lớp.", "english": "There are six students in the class."}
+      ]
+    },
+    {
+      "word": "bảy",
+      "translation": "seven",
+      "word_type": "number",
+      "examples": [
+        {"vietnamese": "Một tuần có bảy ngày.", "english": "A week has seven days."},
+        {"vietnamese": "Tôi ngủ bảy tiếng mỗi đêm.", "english": "I sleep seven hours every night."}
+      ]
+    },
+    {
+      "word": "tám",
+      "translation": "eight",
+      "word_type": "number",
+      "examples": [
+        {"vietnamese": "Tám giờ tối tôi đi ngủ.", "english": "I go to bed at eight in the evening."},
+        {"vietnamese": "Tôi ngủ tám tiếng mỗi đêm.", "english": "I sleep eight hours every night."}
+      ]
+    },
+    {
+      "word": "chín",
+      "translation": "nine",
+      "word_type": "number",
+      "examples": [
+        {"vietnamese": "Chín giờ sáng tôi đi làm.", "english": "I go to work at nine in the morning."},
+        {"vietnamese": "Có chín người trong gia đình tôi.", "english": "There are nine people in my family."}
+      ]
+    },
+    {
+      "word": "mười",
+      "translation": "ten",
+      "word_type": "number",
+      "examples": [
+        {"vietnamese": "Mười giờ sáng tôi có cuộc họp.", "english": "I have a meeting at ten in the morning."},
+        {"vietnamese": "Tôi học tiếng Việt được mười tháng.", "english": "I have been learning Vietnamese for ten months."}
+      ]
+    },
+    {
+      "word": "là",
+      "translation": "to be",
+      "word_type": "verb",
+      "examples": [
+        {"vietnamese": "Tôi là người Mỹ.", "english": "I am American."},
+        {"vietnamese": "Đây là sách của tôi.", "english": "This is my book."},
+        {"vietnamese": "Anh ấy là giáo viên.", "english": "He is a teacher."}
+      ]
+    },
+    {
+      "word": "có",
+      "translation": "to have",
+      "word_type": "verb",
+      "examples": [
+        {"vietnamese": "Tôi có một con mèo.", "english": "I have a cat."},
+        {"vietnamese": "Bạn có xe không?", "english": "Do you have a car?"}
+      ]
+    },
+    {
+      "word": "đi",
+      "translation": "to go",
+      "word_type": "verb",
+      "examples": [
+        {"vietnamese": "Tôi đi học mỗi ngày.", "english": "I go to school every day."},
+        {"vietnamese": "Bạn đi đâu vậy?", "english": "Where are you going?"}
+      ]
+    },
+    {
+      "word": "ăn",
+      "translation": "to eat",
+      "word_type": "verb",
+      "examples": [
+        {"vietnamese": "Bạn đã ăn chưa?", "english": "Have you eaten yet?"},
+        {"vietnamese": "Tôi thích ăn phở.", "english": "I like to eat pho."}
+      ]
+    },
+    {
+      "word": "uống",
+      "translation": "to drink",
+      "word_type": "verb",
+      "examples": [
+        {"vietnamese": "Bạn muốn uống gì?", "english": "What would you like to drink?"},
+        {"vietnamese": "Tôi uống cà phê mỗi sáng.", "english": "I drink coffee every morning."}
+      ]
+    },
+    {
+      "word": "nói",
+      "translation": "to speak / to say",
+      "word_type": "verb",
+      "examples": [
+        {"vietnamese": "Bạn có nói tiếng Việt không?", "english": "Do you speak Vietnamese?"},
+        {"vietnamese": "Anh ấy nói rất nhanh.", "english": "He speaks very fast."}
+      ]
+    },
+    {
+      "word": "nghe",
+      "translation": "to hear / to listen",
+      "word_type": "verb",
+      "examples": [
+        {"vietnamese": "Tôi nghe nhạc mỗi ngày.", "english": "I listen to music every day."},
+        {"vietnamese": "Bạn có nghe thấy không?", "english": "Can you hear?"}
+      ]
+    },
+    {
+      "word": "xem",
+      "translation": "to watch / to see",
+      "word_type": "verb",
+      "examples": [
+        {"vietnamese": "Tôi thích xem phim.", "english": "I like to watch movies."},
+        {"vietnamese": "Bạn có xem tin tức không?", "english": "Do you watch the news?"}
+      ]
+    },
+    {
+      "word": "học",
+      "translation": "to study / to learn",
+      "word_type": "verb",
+      "examples": [
+        {"vietnamese": "Tôi học tiếng Việt mỗi ngày.", "english": "I study Vietnamese every day."},
+        {"vietnamese": "Cô ấy học rất chăm chỉ.", "english": "She studies very diligently."}
+      ]
+    },
+    {
+      "word": "làm",
+      "translation": "to do / to make",
+      "word_type": "verb",
+      "examples": [
+        {"vietnamese": "Bạn làm nghề gì?", "english": "What is your profession?"},
+        {"vietnamese": "Tôi làm bài tập về nhà.", "english": "I do my homework."}
+      ]
+    },
+    {
+      "word": "muốn",
+      "translation": "to want",
+      "word_type": "verb",
+      "examples": [
+        {"vietnamese": "Tôi muốn uống nước.", "english": "I want to drink water."},
+        {"vietnamese": "Bạn muốn đi đâu?", "english": "Where do you want to go?"}
+      ]
+    },
+    {
+      "word": "cần",
+      "translation": "to need",
+      "word_type": "verb",
+      "examples": [
+        {"vietnamese": "Tôi cần giúp đỡ.", "english": "I need help."},
+        {"vietnamese": "Bạn cần gì?", "english": "What do you need?"}
+      ]
+    },
+    {
+      "word": "biết",
+      "translation": "to know",
+      "word_type": "verb",
+      "examples": [
+        {"vietnamese": "Tôi không biết.", "english": "I don't know."},
+        {"vietnamese": "Bạn có biết anh ấy không?", "english": "Do you know him?"}
+      ]
+    },
+    {
+      "word": "hiểu",
+      "translation": "to understand",
+      "word_type": "verb",
+      "examples": [
+        {"vietnamese": "Tôi không hiểu.", "english": "I don't understand."},
+        {"vietnamese": "Bạn hiểu không?", "english": "Do you understand?"}
+      ]
+    },
+    {
+      "word": "mua",
+      "translation": "to buy",
+      "word_type": "verb",
+      "examples": [
+        {"vietnamese": "Tôi muốn mua sách.", "english": "I want to buy a book."},
+        {"vietnamese": "Bạn mua cái đó ở đâu?", "english": "Where did you buy that?"}
+      ]
+    },
+    {
+      "word": "đến",
+      "translation": "to come / to arrive",
+      "word_type": "verb",
+      "examples": [
+        {"vietnamese": "Anh ấy đến từ Hà Nội.", "english": "He comes from Hanoi."},
+        {"vietnamese": "Khi nào bạn đến?", "english": "When will you arrive?"}
+      ]
+    },
+    {
+      "word": "về",
+      "translation": "to return / to go home",
+      "word_type": "verb",
+      "examples": [
+        {"vietnamese": "Tôi về nhà lúc sáu giờ.", "english": "I go home at six o'clock."},
+        {"vietnamese": "Bạn về chưa?", "english": "Have you gone home yet?"}
+      ]
+    },
+    {
+      "word": "thích",
+      "translation": "to like",
+      "word_type": "verb",
+      "examples": [
+        {"vietnamese": "Tôi thích ăn phở.", "english": "I like eating pho."},
+        {"vietnamese": "Bạn thích màu gì?", "english": "What color do you like?"}
+      ]
+    },
+    {
+      "word": "yêu",
+      "translation": "to love",
+      "word_type": "verb",
+      "examples": [
+        {"vietnamese": "Tôi yêu bạn.", "english": "I love you."},
+        {"vietnamese": "Cô ấy yêu đọc sách.", "english": "She loves reading books."}
+      ]
+    },
+    {
+      "word": "sống",
+      "translation": "to live",
+      "word_type": "verb",
+      "examples": [
+        {"vietnamese": "Tôi sống ở Hà Nội.", "english": "I live in Hanoi."},
+        {"vietnamese": "Bạn sống ở đâu?", "english": "Where do you live?"}
+      ]
+    },
+    {
+      "word": "hỏi",
+      "translation": "to ask",
+      "word_type": "verb",
+      "examples": [
+        {"vietnamese": "Tôi muốn hỏi bạn một câu.", "english": "I want to ask you a question."},
+        {"vietnamese": "Bạn có thể hỏi cô giáo.", "english": "You can ask the teacher."}
+      ]
+    },
+    {
+      "word": "giúp",
+      "translation": "to help",
+      "word_type": "verb",
+      "examples": [
+        {"vietnamese": "Bạn có thể giúp tôi không?", "english": "Can you help me?"},
+        {"vietnamese": "Tôi muốn giúp bạn.", "english": "I want to help you."}
+      ]
+    },
+    {
+      "word": "cho",
+      "translation": "to give",
+      "word_type": "verb",
+      "examples": [
+        {"vietnamese": "Mẹ cho con tiền.", "english": "Mom gives her child money."},
+        {"vietnamese": "Bạn có thể cho tôi mượn bút không?", "english": "Can you lend me a pen?"}
+      ]
+    },
+    {
+      "word": "lấy",
+      "translation": "to take / to get",
+      "word_type": "verb",
+      "examples": [
+        {"vietnamese": "Tôi lấy cái này.", "english": "I'll take this one."},
+        {"vietnamese": "Bạn có thể lấy cái đó cho tôi không?", "english": "Can you get that for me?"}
+      ]
+    },
+    {
+      "word": "nghĩ",
+      "translation": "to think",
+      "word_type": "verb",
+      "examples": [
+        {"vietnamese": "Tôi nghĩ bạn đúng.", "english": "I think you are right."},
+        {"vietnamese": "Bạn nghĩ sao?", "english": "What do you think?"}
+      ]
+    },
+    {
+      "word": "nhớ",
+      "translation": "to remember / to miss",
+      "word_type": "verb",
+      "examples": [
+        {"vietnamese": "Tôi nhớ bạn.", "english": "I miss you."},
+        {"vietnamese": "Bạn có nhớ tôi không?", "english": "Do you remember me?"}
+      ]
+    },
+    {
+      "word": "ngủ",
+      "translation": "to sleep",
+      "word_type": "verb",
+      "examples": [
+        {"vietnamese": "Tôi ngủ tám tiếng mỗi đêm.", "english": "I sleep eight hours every night."},
+        {"vietnamese": "Bạn ngủ ngon không?", "english": "Did you sleep well?"}
+      ]
+    },
+    {
+      "word": "đọc",
+      "translation": "to read",
+      "word_type": "verb",
+      "examples": [
+        {"vietnamese": "Tôi thích đọc sách.", "english": "I like to read books."},
+        {"vietnamese": "Bạn đọc báo không?", "english": "Do you read the newspaper?"}
+      ]
+    },
+    {
+      "word": "viết",
+      "translation": "to write",
+      "word_type": "verb",
+      "examples": [
+        {"vietnamese": "Bạn có thể viết tên bạn không?", "english": "Can you write your name?"},
+        {"vietnamese": "Tôi viết thư cho bạn.", "english": "I write a letter to you."}
+      ]
+    },
+    {
+      "word": "ở",
+      "translation": "to be at / to stay (location)",
+      "word_type": "verb",
+      "examples": [
+        {"vietnamese": "Bạn đang ở đâu?", "english": "Where are you right now?"},
+        {"vietnamese": "Tôi ở Hà Nội.", "english": "I am in Hanoi."},
+        {"vietnamese": "Sách ở trên bàn.", "english": "The book is on the table."}
+      ]
+    },
+    {
+      "word": "tốt",
+      "translation": "good",
+      "word_type": "adjective",
+      "examples": [
+        {"vietnamese": "Anh ấy là người tốt.", "english": "He is a good person."},
+        {"vietnamese": "Sức khỏe tôi tốt.", "english": "My health is good."}
+      ]
+    },
+    {
+      "word": "xấu",
+      "translation": "bad / ugly",
+      "word_type": "adjective",
+      "examples": [
+        {"vietnamese": "Thời tiết hôm nay xấu.", "english": "The weather today is bad."},
+        {"vietnamese": "Đừng làm điều xấu.", "english": "Don't do bad things."}
+      ]
+    },
+    {
+      "word": "đẹp",
+      "translation": "beautiful",
+      "word_type": "adjective",
+      "examples": [
+        {"vietnamese": "Cô ấy rất đẹp.", "english": "She is very beautiful."},
+        {"vietnamese": "Hà Nội là thành phố đẹp.", "english": "Hanoi is a beautiful city."}
+      ]
+    },
+    {
+      "word": "lớn",
+      "translation": "big / large",
+      "word_type": "adjective",
+      "examples": [
+        {"vietnamese": "Nhà của họ rất lớn.", "english": "Their house is very large."},
+        {"vietnamese": "Thành phố này rất lớn.", "english": "This city is very large."}
+      ]
+    },
+    {
+      "word": "nhỏ",
+      "translation": "small",
+      "word_type": "adjective",
+      "examples": [
+        {"vietnamese": "Con mèo nhỏ rất dễ thương.", "english": "The small cat is very cute."},
+        {"vietnamese": "Phòng này hơi nhỏ.", "english": "This room is a bit small."}
+      ]
+    },
+    {
+      "word": "nhiều",
+      "translation": "many / much",
+      "word_type": "adjective",
+      "examples": [
+        {"vietnamese": "Tôi có nhiều bạn.", "english": "I have many friends."},
+        {"vietnamese": "Bạn uống nhiều nước không?", "english": "Do you drink a lot of water?"}
+      ]
+    },
+    {
+      "word": "ít",
+      "translation": "few / little",
+      "word_type": "adjective",
+      "examples": [
+        {"vietnamese": "Tôi có ít tiền.", "english": "I have little money."},
+        {"vietnamese": "Bạn ngủ ít quá.", "english": "You sleep too little."}
+      ]
+    },
+    {
+      "word": "mới",
+      "translation": "new",
+      "word_type": "adjective",
+      "examples": [
+        {"vietnamese": "Tôi mua xe mới.", "english": "I bought a new car."},
+        {"vietnamese": "Bạn có bạn mới không?", "english": "Do you have new friends?"}
+      ]
+    },
+    {
+      "word": "cũ",
+      "translation": "old (of things) / used",
+      "word_type": "adjective",
+      "examples": [
+        {"vietnamese": "Quyển sách này cũ rồi.", "english": "This book is already old."},
+        {"vietnamese": "Tôi bán xe cũ của tôi.", "english": "I sold my old car."}
+      ]
+    },
+    {
+      "word": "nhanh",
+      "translation": "fast / quick",
+      "word_type": "adjective",
+      "examples": [
+        {"vietnamese": "Anh ấy chạy rất nhanh.", "english": "He runs very fast."},
+        {"vietnamese": "Đừng đi nhanh quá.", "english": "Don't go too fast."}
+      ]
+    },
+    {
+      "word": "chậm",
+      "translation": "slow",
+      "word_type": "adjective",
+      "examples": [
+        {"vietnamese": "Nói chậm thôi.", "english": "Speak slowly please."},
+        {"vietnamese": "Xe buýt đi rất chậm.", "english": "The bus goes very slowly."}
+      ]
+    },
+    {
+      "word": "khó",
+      "translation": "difficult",
+      "word_type": "adjective",
+      "examples": [
+        {"vietnamese": "Tiếng Việt có khó không?", "english": "Is Vietnamese difficult?"},
+        {"vietnamese": "Bài tập này rất khó.", "english": "This exercise is very difficult."}
+      ]
+    },
+    {
+      "word": "dễ",
+      "translation": "easy",
+      "word_type": "adjective",
+      "examples": [
+        {"vietnamese": "Câu hỏi này rất dễ.", "english": "This question is very easy."},
+        {"vietnamese": "Tiếng Anh dễ hơn tiếng Việt.", "english": "English is easier than Vietnamese."}
+      ]
+    },
+    {
+      "word": "vui",
+      "translation": "happy / fun",
+      "word_type": "adjective",
+      "examples": [
+        {"vietnamese": "Tôi rất vui khi gặp bạn.", "english": "I am very happy to meet you."},
+        {"vietnamese": "Bữa tiệc hôm qua rất vui.", "english": "Yesterday's party was very fun."}
+      ]
+    },
+    {
+      "word": "buồn",
+      "translation": "sad",
+      "word_type": "adjective",
+      "examples": [
+        {"vietnamese": "Tôi cảm thấy buồn hôm nay.", "english": "I feel sad today."},
+        {"vietnamese": "Câu chuyện này rất buồn.", "english": "This story is very sad."}
+      ]
+    },
+    {
+      "word": "người",
+      "translation": "person / people",
+      "word_type": "noun",
+      "examples": [
+        {"vietnamese": "Có nhiều người ở đây.", "english": "There are many people here."},
+        {"vietnamese": "Anh ấy là người tốt.", "english": "He is a good person."}
+      ]
+    },
+    {
+      "word": "nhà",
+      "translation": "house / home",
+      "word_type": "noun",
+      "examples": [
+        {"vietnamese": "Nhà tôi ở gần đây.", "english": "My home is nearby."},
+        {"vietnamese": "Tôi về nhà lúc năm giờ.", "english": "I go home at five o'clock."}
+      ]
+    },
+    {
+      "word": "nước",
+      "translation": "water / country",
+      "word_type": "noun",
+      "examples": [
+        {"vietnamese": "Tôi muốn uống nước.", "english": "I want to drink water."},
+        {"vietnamese": "Việt Nam là một nước đẹp.", "english": "Vietnam is a beautiful country."}
+      ]
+    },
+    {
+      "word": "cơm",
+      "translation": "cooked rice / meal",
+      "word_type": "noun",
+      "examples": [
+        {"vietnamese": "Bạn đã ăn cơm chưa?", "english": "Have you eaten yet?"},
+        {"vietnamese": "Cơm Việt Nam rất ngon.", "english": "Vietnamese food is very delicious."}
+      ]
+    },
+    {
+      "word": "xe",
+      "translation": "vehicle / bicycle / car",
+      "word_type": "noun",
+      "examples": [
+        {"vietnamese": "Xe của bạn màu gì?", "english": "What color is your vehicle?"},
+        {"vietnamese": "Tôi đi xe đến trường.", "english": "I ride to school."}
+      ]
+    },
+    {
+      "word": "tiền",
+      "translation": "money",
+      "word_type": "noun",
+      "examples": [
+        {"vietnamese": "Tôi không có tiền.", "english": "I don't have money."},
+        {"vietnamese": "Cái này bao nhiêu tiền?", "english": "How much does this cost?"}
+      ]
+    },
+    {
+      "word": "ngày",
+      "translation": "day",
+      "word_type": "noun",
+      "examples": [
+        {"vietnamese": "Hôm nay là ngày đẹp.", "english": "Today is a beautiful day."},
+        {"vietnamese": "Tôi học tiếng Việt mỗi ngày.", "english": "I study Vietnamese every day."}
+      ]
+    },
+    {
+      "word": "tên",
+      "translation": "name",
+      "word_type": "noun",
+      "examples": [
+        {"vietnamese": "Tên bạn là gì?", "english": "What is your name?"},
+        {"vietnamese": "Tôi không nhớ tên anh ấy.", "english": "I don't remember his name."}
+      ]
+    },
+    {
+      "word": "ba",
+      "translation": "father (colloquial)",
+      "word_type": "noun",
+      "examples": [
+        {"vietnamese": "Ba tôi là giáo viên.", "english": "My father is a teacher."},
+        {"vietnamese": "Tôi yêu ba tôi.", "english": "I love my father."}
+      ]
+    },
+    {
+      "word": "mẹ",
+      "translation": "mother",
+      "word_type": "noun",
+      "examples": [
+        {"vietnamese": "Mẹ tôi nấu ăn rất ngon.", "english": "My mother cooks very deliciously."},
+        {"vietnamese": "Tôi gọi điện cho mẹ mỗi ngày.", "english": "I call my mother every day."}
+      ]
+    },
+    {
+      "word": "sách",
+      "translation": "book",
+      "word_type": "noun",
+      "examples": [
+        {"vietnamese": "Tôi có nhiều sách.", "english": "I have many books."},
+        {"vietnamese": "Quyển sách này rất hay.", "english": "This book is very good."}
+      ]
+    },
+    {
+      "word": "trường",
+      "translation": "school",
+      "word_type": "noun",
+      "examples": [
+        {"vietnamese": "Trường tôi có nhiều học sinh.", "english": "My school has many students."},
+        {"vietnamese": "Tôi đi trường bằng xe buýt.", "english": "I go to school by bus."}
+      ]
+    },
+    {
+      "word": "đường",
+      "translation": "road / street",
+      "word_type": "noun",
+      "examples": [
+        {"vietnamese": "Đường này rất đẹp.", "english": "This road is very beautiful."},
+        {"vietnamese": "Nhà tôi ở cuối đường.", "english": "My house is at the end of the street."}
+      ]
+    },
+    {
+      "word": "bạn",
+      "translation": "friend",
+      "word_type": "noun",
+      "examples": [
+        {"vietnamese": "Cô ấy là bạn tốt của tôi.", "english": "She is my good friend."},
+        {"vietnamese": "Tôi có nhiều bạn.", "english": "I have many friends."}
+      ]
+    },
+    {
+      "word": "năm",
+      "translation": "year",
+      "word_type": "noun",
+      "examples": [
+        {"vietnamese": "Tôi học tiếng Việt được một năm.", "english": "I have been learning Vietnamese for one year."},
+        {"vietnamese": "Năm nay bạn bao nhiêu tuổi?", "english": "How old are you this year?"}
+      ]
+    },
+    {
+      "word": "của",
+      "translation": "of / belonging to (possessive)",
+      "word_type": "particle",
+      "examples": [
+        {"vietnamese": "Đây là sách của tôi.", "english": "This is my book."},
+        {"vietnamese": "Xe của bạn ở đâu?", "english": "Where is your car?"}
+      ]
+    },
+    {
+      "word": "vâng",
+      "translation": "yes (polite)",
+      "word_type": "interjection",
+      "examples": [
+        {"vietnamese": "Vâng, tôi hiểu rồi.", "english": "Yes, I understand."},
+        {"vietnamese": "Vâng, tôi sẽ làm ngay.", "english": "Yes, I will do it right away."}
+      ]
+    },
+    {
+      "word": "và",
+      "translation": "and",
+      "word_type": "conjunction",
+      "examples": [
+        {"vietnamese": "Tôi thích cà phê và trà.", "english": "I like coffee and tea."},
+        {"vietnamese": "Anh ấy học và làm việc.", "english": "He studies and works."}
+      ]
+    },
+    {
+      "word": "nhưng",
+      "translation": "but",
+      "word_type": "conjunction",
+      "examples": [
+        {"vietnamese": "Tôi muốn đi nhưng bận.", "english": "I want to go but I'm busy."},
+        {"vietnamese": "Tiếng Việt khó nhưng thú vị.", "english": "Vietnamese is difficult but interesting."}
+      ]
+    },
+    {
+      "word": "vì",
+      "translation": "because",
+      "word_type": "conjunction",
+      "examples": [
+        {"vietnamese": "Tôi học tiếng Việt vì tôi thích.", "english": "I study Vietnamese because I like it."},
+        {"vietnamese": "Tôi ở nhà vì trời mưa.", "english": "I stayed home because it was raining."}
+      ]
+    },
+    {
+      "word": "nên",
+      "translation": "so / therefore",
+      "word_type": "conjunction",
+      "examples": [
+        {"vietnamese": "Trời mưa nên tôi ở nhà.", "english": "It's raining so I stayed home."},
+        {"vietnamese": "Tôi mệt nên tôi ngủ sớm.", "english": "I'm tired so I slept early."}
+      ]
+    },
+    {
+      "word": "hay",
+      "translation": "or",
+      "word_type": "conjunction",
+      "examples": [
+        {"vietnamese": "Bạn muốn trà hay cà phê?", "english": "Do you want tea or coffee?"},
+        {"vietnamese": "Đi hay ở?", "english": "Go or stay?"}
+      ]
+    },
+    {
+      "word": "khi",
+      "translation": "when / while",
+      "word_type": "conjunction",
+      "examples": [
+        {"vietnamese": "Khi tôi đến, bạn đang ngủ.", "english": "When I arrived, you were sleeping."},
+        {"vietnamese": "Tôi nghe nhạc khi làm việc.", "english": "I listen to music while working."}
+      ]
+    },
+    {
+      "word": "thì",
+      "translation": "then / topic marker",
+      "word_type": "particle",
+      "examples": [
+        {"vietnamese": "Nếu trời mưa thì tôi ở nhà.", "english": "If it rains, then I'll stay home."},
+        {"vietnamese": "Tôi thì không biết.", "english": "As for me, I don't know."}
+      ]
+    },
+    {
+      "word": "đã",
+      "translation": "past marker",
+      "word_type": "particle",
+      "examples": [
+        {"vietnamese": "Tôi đã ăn rồi.", "english": "I have already eaten."},
+        {"vietnamese": "Bạn đã đến chưa?", "english": "Have you arrived yet?"}
+      ]
+    },
+    {
+      "word": "đang",
+      "translation": "progressive marker (currently doing)",
+      "word_type": "particle",
+      "examples": [
+        {"vietnamese": "Tôi đang học.", "english": "I am studying right now."},
+        {"vietnamese": "Cô ấy đang ngủ.", "english": "She is sleeping."}
+      ]
+    },
+    {
+      "word": "sẽ",
+      "translation": "will (future marker)",
+      "word_type": "particle",
+      "examples": [
+        {"vietnamese": "Tôi sẽ đến vào ngày mai.", "english": "I will come tomorrow."},
+        {"vietnamese": "Trời sẽ mưa.", "english": "It will rain."}
+      ]
+    },
+    {
+      "word": "rồi",
+      "translation": "already / done",
+      "word_type": "particle",
+      "examples": [
+        {"vietnamese": "Tôi ăn rồi.", "english": "I've already eaten."},
+        {"vietnamese": "Xong rồi!", "english": "Done already!"}
+      ]
+    },
+    {
+      "word": "không",
+      "translation": "no / not",
+      "word_type": "adverb",
+      "examples": [
+        {"vietnamese": "Tôi không biết.", "english": "I don't know."},
+        {"vietnamese": "Không, cảm ơn.", "english": "No, thank you."},
+        {"vietnamese": "Tôi không thích.", "english": "I don't like it."}
+      ]
+    },
+    {
+      "word": "rất",
+      "translation": "very",
+      "word_type": "adverb",
+      "examples": [
+        {"vietnamese": "Tôi rất vui.", "english": "I am very happy."},
+        {"vietnamese": "Cô ấy nói tiếng Việt rất tốt.", "english": "She speaks Vietnamese very well."}
+      ]
+    },
+    {
+      "word": "cũng",
+      "translation": "also / too",
+      "word_type": "adverb",
+      "examples": [
+        {"vietnamese": "Tôi cũng học tiếng Việt.", "english": "I also study Vietnamese."},
+        {"vietnamese": "Bạn cũng thích ăn phở à?", "english": "Do you also like eating pho?"}
+      ]
+    },
+    {
+      "word": "đây",
+      "translation": "this / here",
+      "word_type": "pronoun",
+      "examples": [
+        {"vietnamese": "Đây là bạn tôi.", "english": "This is my friend."},
+        {"vietnamese": "Tôi ở đây.", "english": "I am here."}
+      ]
+    },
+    {
+      "word": "đó",
+      "translation": "that / there",
+      "word_type": "pronoun",
+      "examples": [
+        {"vietnamese": "Cái đó là gì?", "english": "What is that?"},
+        {"vietnamese": "Tôi muốn cái đó.", "english": "I want that one."}
+      ]
+    },
+    {
+      "word": "gì",
+      "translation": "what",
+      "word_type": "question word",
+      "examples": [
+        {"vietnamese": "Bạn muốn ăn gì?", "english": "What do you want to eat?"},
+        {"vietnamese": "Đây là cái gì?", "english": "What is this?"}
+      ]
+    },
+    {
+      "word": "ai",
+      "translation": "who",
+      "word_type": "question word",
+      "examples": [
+        {"vietnamese": "Ai đó?", "english": "Who's there?"},
+        {"vietnamese": "Bạn đang nói chuyện với ai?", "english": "Who are you talking to?"}
+      ]
+    },
+    {
+      "word": "đâu",
+      "translation": "where",
+      "word_type": "question word",
+      "examples": [
+        {"vietnamese": "Bạn sống ở đâu?", "english": "Where do you live?"},
+        {"vietnamese": "Nhà vệ sinh ở đâu?", "english": "Where is the bathroom?"}
+      ]
+    },
+    {
+      "word": "nào",
+      "translation": "which / any",
+      "word_type": "question word",
+      "examples": [
+        {"vietnamese": "Bạn thích cái nào?", "english": "Which one do you like?"},
+        {"vietnamese": "Đường nào đến trường?", "english": "Which road goes to school?"}
+      ]
+    },
+    {
+      "word": "sao",
+      "translation": "why / how come",
+      "word_type": "question word",
+      "examples": [
+        {"vietnamese": "Sao bạn không đến?", "english": "Why didn't you come?"},
+        {"vietnamese": "Sao vậy?", "english": "How come? / Why so?"}
+      ]
+    }
+  ]
+}
