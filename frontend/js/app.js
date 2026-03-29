@@ -74,6 +74,10 @@ async function initApp() {
 
         // Setup event listeners
         setupEventListeners();
+        setupModeSwitch();
+
+        // Wire up vocab module (events only — init deferred until tab opened)
+        VocabMode.setupEvents();
 
         console.log('Application initialized successfully');
     } catch (error) {
@@ -530,6 +534,31 @@ function handleRestart() {
  */
 function showLoading(show) {
     elements.loadingOverlay.style.display = show ? 'flex' : 'none';
+}
+
+/**
+ * Mode switching between Pronunciation and Vocabulary tabs
+ */
+function setupModeSwitch() {
+    const btnPronunciation = document.getElementById('mode-pronunciation');
+    const btnVocab         = document.getElementById('mode-vocab');
+    const panePronounciation = document.getElementById('pronunciation-mode');
+    const paneVocab          = document.getElementById('vocab-mode');
+
+    btnPronunciation.addEventListener('click', () => {
+        panePronounciation.style.display = 'block';
+        paneVocab.style.display          = 'none';
+        btnPronunciation.classList.add('active');
+        btnVocab.classList.remove('active');
+    });
+
+    btnVocab.addEventListener('click', () => {
+        panePronounciation.style.display = 'none';
+        paneVocab.style.display          = 'block';
+        btnPronunciation.classList.remove('active');
+        btnVocab.classList.add('active');
+        VocabMode.init(state.words);
+    });
 }
 
 // Initialize app when DOM is ready
